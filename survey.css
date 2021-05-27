@@ -1,0 +1,59 @@
+body {
+    text-align:center;
+    font-family:helvetica;
+    background-image:url("https://www.northeastern.edu/graduate/blog/wp-content/uploads/2017/11/iStock-1197640540-1.jpg");
+    background-size:1790px;
+    
+  }
+  #body {
+      width:600px;
+      padding:30px;
+      margin:auto;
+      border-radius:10px;
+      text-align:left;
+      background-color:rgb(0,0,0,0.6);
+      color:white;
+    
+  }
+  #name {
+    width:560px;
+    padding:6px;
+    border-radius:6px;
+    border:none;
+  }
+  #email {
+    width:560px;
+    padding:6px;
+    border-radius:6px;
+    border:none;
+  }
+  #number {
+    width:560px;
+    padding:6px;
+    border-radius:6px;
+    border:none;
+  }
+  #dropdown {
+    width:560px;
+    padding:6px;
+    border-radius:6px;
+    border:none;
+  }
+  #select2 {
+    width:560px;
+    padding:6px;
+    border-radius:6px;
+    border:none;
+  }
+  #comment {
+      width:575px;
+      border:none;
+  }
+  #submit {
+      width:575px;
+      padding:10px;
+     background-color:#1aff1a;
+    color:white;
+    border:none;
+
+  }
